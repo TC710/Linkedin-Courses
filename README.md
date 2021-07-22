@@ -9,3 +9,6 @@ If there is no solution than it required or edit a file from the course which I 
 
 
 Also include other codes that is not related to linkedin in folder titiled only after the programming language used.  
+
+
+For the Kotlin Essential Training. Due to the large project file it is in .zip format
